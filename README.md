@@ -1,4 +1,4 @@
-## pt-:brazil: | Bem vindo ao meu GitHub.
+## pt-br | Bem vindo ao meu GitHub.
  - Desenvolvidor Python e estudante de Ciência da Computação.  
  - Trabalhando em projetos próprios baseados em Python  
  - Buscando aprender novas linguagens
