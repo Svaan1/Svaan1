@@ -6,7 +6,7 @@
 ## eng | Welcome to my GitHub.
  - Python Developer and Computer Science college student    
  - Working on my own Python based projects    
- - Looking forward to learn new languages 
+ - Looking forward to learning new languages 
 
 How to reach me:
 <div align="left">
