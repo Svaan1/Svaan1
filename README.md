@@ -1,10 +1,10 @@
 ## pt-br | Bem vindo ao meu GitHub.
- - Desenvolvedor Python e estudante de Ciência da Computação.  
+ - Software Engineer e estudante de Ciência da Computação.  
  - Trabalhando em projetos próprios baseados em Python  
  - Buscando aprender novas linguagens (Possuo experiência em HTML, CSS, JS e Python)
 
 ## eng | Welcome to my GitHub.
- - Python Developer and Computer Science college student    
+ - Software Engineer and Computer Science college student    
  - Working on my own Python based projects    
  - Looking forward to learning new languages (HTML, CSS, JS and Python experience at the moment)
 
