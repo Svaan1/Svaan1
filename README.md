@@ -1,12 +1,12 @@
 ## pt-br | Bem vindo ao meu GitHub.
  - Software Engineer e estudante de Ciência da Computação.  
  - Trabalhando em projetos próprios baseados em Python  
- - Buscando aprender novas linguagens (Possuo experiência em HTML, CSS, JS e Python)
+ - Buscando aprender novas linguagens (Possuo experiência principalmente Python e Rust)
 
 ## eng | Welcome to my GitHub.
  - Software Engineer and Computer Science college student    
  - Working on my own Python based projects    
- - Looking forward to learning new languages (HTML, CSS, JS and Python experience at the moment)
+ - Looking forward to learning new languages (Mainly Python and Rust experience)
 
 How to reach me:
 <div align="left">
