@@ -1,12 +1,12 @@
 ## pt-br | Bem vindo ao meu GitHub.
  - Software Engineer e estudante de Ciência da Computação.  
  - Trabalhando em projetos para portfólio e procurando estágio.  
- - Buscando aprender novas linguagens (Possuo experiência principalmente em Python, JavaScript e Rust).
+ - Buscando aprender novas linguagens (Possuo experiência principalmente em Python, JavaScript e Java).
 
 ## eng | Welcome to my GitHub.
  - Software Engineer and Computer Science college student    
  - Working on my own portfolio projects and looking for internship.    
- - Looking forward to learning new languages (Mainly Python, JavaScript and Rust experience).
+ - Looking forward to learning new languages (Mainly Python, JavaScript and Java experience).
 
 How to reach me:
 <div align="left">
