@@ -1,17 +1,32 @@
-## pt-br | Bem vindo ao meu GitHub.
- - Software Engineer e estudante de Ciência da Computação
- - Trabalhando em projetos para portfólio
- - Disponível para novos projetos e colaborações profissionais
+# hey there, i'm Paulo
 
-## eng | Welcome to my GitHub.
-- Software Engineer and Computer Science college student.
-- Currently working on portfolio projects
-- Available for new projects and professional collaborations.
+<div>
+  <img align="right" src="https://github.com/user-attachments/assets/89fbee65-3759-485d-9b8e-49311a743b96" width=500/>
+ <h3> about me: </h3>
+ <ul>
+   <li> close to finishing my computer science degree
+   <li> backend dev, currently studying distributed systems, will scale chaos into elegance
+   <li> python's my main language, but i'll write mostly anything
+   <li> really into strategy games and good coffee
+ </ul>
 
-How to reach me:
-<div align="left">
-  <a href="https://www.linkedin.com/in/paulo-ricardo-sv1/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:plricardo504@gmai.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <div/>
- 
- 
+  <h3> what i’m into: </h3>
+ <ul>
+   <li>trying to build scalable, reliable backends</li>
+   <li>exploring the system designs that make the internet work</li>
+   <li>occasionally messing around with frontends for fun</li>
+ </ul>
+
+   <h3> lets connect: </h3>
+ <ul>
+  <li><a href="https://twitter.com/klp_paulo">twitter</a>
+  <li><a href="https://www.linkedin.com/in/paulo-ricardo-sv1/">linkedin</a>
+ </ul>
+
+<hr>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,postgres,mongodb,docker)](https://skillicons.dev)
+
+
+
