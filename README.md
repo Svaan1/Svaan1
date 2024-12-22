@@ -1,7 +1,7 @@
 # hey there, i'm Paulo
 
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/89fbee65-3759-485d-9b8e-49311a743b96" width=450/>
+  <img align="right" src="https://github.com/user-attachments/assets/89fbee65-3759-485d-9b8e-49311a743b96" width=300/>
  <h3> about me: </h3>
  <ul>
    <li> close to finishing my computer science degree
