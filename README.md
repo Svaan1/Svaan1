@@ -10,7 +10,7 @@
 
   <h3> what i’m into: </h3>
  <ul>
-   <li>trying to build scalable, reliable backends</li>
+   <li>trying to build cool applications</li>
    <li>exploring the system designs that make the internet work</li>
    <li>occasionally messing around with frontends for fun</li>
  </ul>
