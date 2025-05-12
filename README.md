@@ -21,8 +21,9 @@
   <li><a href="https://www.linkedin.com/in/paulo-ricardo-sv1/">linkedin</a>
  </ul>
 
-<hr>
 </div>
+
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,postgres,mongodb,docker)](https://skillicons.dev)
 
@@ -33,6 +34,9 @@
 
  [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=22jkswje7ejm4lyse4l2mzemy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
+
+<hr>
+
 
 
 
