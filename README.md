@@ -11,7 +11,7 @@
   <h3> what i’m into: </h3>
  <ul>
    <li>trying to build cool things</li>
-   <li>exploring systems that make the internet work</li>
+   <li>exploring the systems that make the internet work</li>
    <li>occasionally messing around with other tech stacks for fun</li>
  </ul>
 
