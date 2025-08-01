@@ -5,14 +5,14 @@
  <ul>
    <li> close to finishing my computer science degree
    <li> backend dev, currently into distributed systems
-   <li> python's my main language, but i'll write mostly anything
+   <li> python's my most used language, but i'll write mostly anything
  </ul>
 
   <h3> what i’m into: </h3>
  <ul>
-   <li>trying to build cool applications</li>
-   <li>exploring the system designs that make the internet work</li>
-   <li>occasionally messing around with frontends for fun</li>
+   <li>trying to build cool things</li>
+   <li>exploring systems that make the internet work</li>
+   <li>occasionally messing around with other tech stacks for fun</li>
  </ul>
 
    <h3> lets connect: </h3>
