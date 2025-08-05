@@ -4,7 +4,8 @@
  <h3> about me: </h3>
  <ul>
    <li> close to finishing my computer science degree
-   <li> backend dev, currently into distributed systems
+   <li> backend dev, really into distributed systems
+   <li> currently developing software at an electrical engineering company 
    <li> python's my most used language, but i'll write mostly anything
  </ul>
 
