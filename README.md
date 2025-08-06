@@ -5,7 +5,7 @@
  <ul>
    <li> close to finishing my computer science degree
    <li> backend dev, really into distributed systems
-   <li> currently developing software at an electrical engineering company 
+   <li> currently developing software at @pstgorg
    <li> python's my most used language, but i'll write mostly anything
  </ul>
 
