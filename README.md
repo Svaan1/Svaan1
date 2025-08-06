@@ -5,7 +5,6 @@
  <ul>
    <li> close to finishing my computer science degree
    <li> backend dev, really into distributed systems
-   <li> currently developing software at <a href="https://github.com/pstgorg">PSTG</a>
    <li> python's my most used language, but i'll write mostly anything
  </ul>
 
