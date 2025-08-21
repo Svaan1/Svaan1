@@ -25,7 +25,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,postgres,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,go)](https://skillicons.dev)
 
 
 <hr>
