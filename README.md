@@ -5,7 +5,7 @@
  <ul>
    <li> close to finishing my computer science degree
    <li> backend dev, really into distributed systems
-   <li> python's my most used language, but i'll write mostly anything
+   <li> java's my most used language, but i'll write mostly anything
  </ul>
 
   <h3> what i’m into: </h3>
