@@ -14,7 +14,7 @@
    <li>Occasionally messing around with other tech stacks for fun</li>
  </ul>
 
-   <h3> Contact me: </h3>
+   <h3> How to reach me: </h3>
  <ul>
   <li><a href="https://www.linkedin.com/in/paulo-ricardo-sv1/">Linkedin</a>
  </ul>
