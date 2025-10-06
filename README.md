@@ -21,7 +21,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,go)](https://skillicons.dev)
 
 
-<hr>
 
 
 
